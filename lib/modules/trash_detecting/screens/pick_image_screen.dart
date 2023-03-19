@@ -7,11 +7,7 @@ import 'package:http_parser/http_parser.dart';
 import 'package:sowaste/core/themes/app_colors.dart';
 import 'package:sowaste/core/themes/app_themes.dart';
 import 'package:sowaste/core/values/app_assets/app_images.dart';
-import 'package:sowaste/core/values/app_url.dart';
-import 'package:sowaste/data/services/data_center.dart';
-import 'package:sowaste/data/services/image_picker_services.dart';
-import 'package:sowaste/global_widget/arrow_back_app_bar.dart';
-import 'package:sowaste/modules/dictionary/dictionary_controller.dart';
+
 import 'package:sowaste/modules/home/home_controller.dart';
 import 'package:sowaste/modules/trash_detecting/screens/trash_decteting_screen.dart';
 import 'package:sowaste/modules/trash_detecting/trash_detecting_controller.dart';
